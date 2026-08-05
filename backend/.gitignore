@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+
+# Environment
+.env
+
+# FAISS Models
+models/
+
+# Data
+data/
+
+# VS Code
+.vscode/

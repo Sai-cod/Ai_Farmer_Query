@@ -9,11 +9,5 @@ venv/
 # Environment
 .env
 
-# FAISS Models
-models/
-
-# Data
-data/
-
 # VS Code
 .vscode/
